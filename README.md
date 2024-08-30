@@ -44,18 +44,18 @@ This project was developed using the following tools and technologies:
 
 - ## What are the top-paying data analyst remote jobs?
 
-| job_title | company_name | job_posted_date | job_country | job_location | job_schedule_type | salary_year_avg |
-|---|---|---|---|---|---|---|
-| Data Analyst | Mantys | 2023-02-20 15:13:33 | India | Anywhere | Full-time | 650000.0 |
-| Director of Analytics | Meta | 2023-08-23 12:04:42 | United States | Anywhere | Full-time | 336500.0 |
-| Associate Director- Data Insights | AT&T | 2023-06-18 16:03:12 | United States | Anywhere | Full-time | 255829.5 |
-| Data Analyst, Marketing | Pinterest Job Advertisements | 2023-12-05 20:00:40 | United States | Anywhere | Full-time | 232423.0 |
-| Data Analyst (Hybrid/Remote) | Uclahealthcareers | 2023-01-17 00:17:23 | United States | Anywhere | Full-time | 217000.0 |
-| Principal Data Analyst (Remote) | SmartAsset | 2023-08-09 11:00:01 | United States | Anywhere | Full-time | 205000.0 |
-| Director, Data Analyst - HYBRID | Inclusively | 2023-12-07 15:00:13 | United States | Anywhere | Full-time | 189309.0 |
-| Principal Data Analyst, AV Performance Analysis | Motional | 2023-01-05 00:00:25 | United States | Anywhere | Full-time | 189000.0 |
-| Principal Data Analyst | SmartAsset | 2023-07-11 16:00:05 | United States | Anywhere | Full-time | 186000.0 |
-| ERM Data Analyst | Get It Recruit - Information Technology | 2023-06-09 08:01:04 | United States | Anywhere | Full-time | 184000.0 |
+    | job_title | company_name | job_posted_date | job_country | job_location | job_schedule_type | salary_year_avg |
+    |---|---|---|---|---|---|---|
+    | Data Analyst | Mantys | 2023-02-20 15:13:33 | India | Anywhere | Full-time | 650000.0 |
+    | Director of Analytics | Meta | 2023-08-23 12:04:42 | United States | Anywhere | Full-time | 336500.0 |
+    | Associate Director- Data Insights | AT&T | 2023-06-18 16:03:12 | United States | Anywhere | Full-time | 255829.5 |
+    | Data Analyst, Marketing | Pinterest Job Advertisements | 2023-12-05 20:00:40 | United States | Anywhere | Full-time | 232423.0 |
+    | Data Analyst (Hybrid/Remote) | Uclahealthcareers | 2023-01-17 00:17:23 | United States | Anywhere | Full-time | 217000.0 |
+    | Principal Data Analyst (Remote) | SmartAsset | 2023-08-09 11:00:01 | United States | Anywhere | Full-time | 205000.0 |
+    | Director, Data Analyst - HYBRID | Inclusively | 2023-12-07 15:00:13 | United States | Anywhere | Full-time | 189309.0 |
+    | Principal Data Analyst, AV Performance Analysis | Motional | 2023-01-05 00:00:25 | United States | Anywhere | Full-time | 189000.0 |
+    | Principal Data Analyst | SmartAsset | 2023-07-11 16:00:05 | United States | Anywhere | Full-time | 186000.0 |
+    | ERM Data Analyst | Get It Recruit - Information Technology | 2023-06-09 08:01:04 | United States | Anywhere | Full-time | 184000.0 |
 
 
 - ##  What are the most in demand skills for data analysts?
@@ -71,35 +71,35 @@ This project was developed using the following tools and technologies:
 
 - ## What are the top skills based on Data Analyst salary?
 
-| Skills | Average Year Salary |
-|---|---|
-| pyspark | 208,172 |
-| bitbucket | 189,155 |
-| watson | 160,515 |
-| couchbase | 160,515 |
-| datarobot | 155,486 |
-| gitlab | 154,500 |
-| swift | 153,750 |
-| jupyter | 152,777 |
-| pandas | 151,821 |
-| elasticsearch | 145,000 |
+    | Skills | Average Year Salary |
+    |---|---|
+    | pyspark | 208,172 |
+    | bitbucket | 189,155 |
+    | watson | 160,515 |
+    | couchbase | 160,515 |
+    | datarobot | 155,486 |
+    | gitlab | 154,500 |
+    | swift | 153,750 |
+    | jupyter | 152,777 |
+    | pandas | 151,821 |
+    | elasticsearch | 145,000 |
 
 
 - ## What are the most optimal skills to learn for Data Analyst(high demand and high paying skills)?
-
-| Skills | Total Count | Average Year Salary |
-|---|---|---|
-| SQL | 398 | 97,237 |
-| Excel | 256 | 87,288 |
-| Python | 236 | 101,397 |
-| Tableau | 230 | 99,288 |
-| R | 148 | 100,499 |
-| SAS | 126 | 98,902 |
-| Power BI | 110 | 97,431 |
-| PowerPoint | 58 | 88,701 |
-| Looker | 49 | 103,795 |
-| Word | 48 | 82,576 |
-
+    
+    | Skills | Total Count | Average Year Salary |
+    |---|---|---|
+    | SQL | 398 | 97,237 |
+    | Excel | 256 | 87,288 |
+    | Python | 236 | 101,397 |
+    | Tableau | 230 | 99,288 |
+    | R | 148 | 100,499 |
+    | SAS | 126 | 98,902 |
+    | Power BI | 110 | 97,431 |
+    | PowerPoint | 58 | 88,701 |
+    | Looker | 49 | 103,795 |
+    | Word | 48 | 82,576 |
+    
 
 
 # What I Learned
