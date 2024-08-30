@@ -40,4 +40,4 @@ LEFT JOIN skills_dim ON jobs_to_skills.skill_id = skills_dim.skill_id
 GROUP BY
     skills
 ORDER BY average_year_salary DESC
-LIMIT 20
+LIMIT 10

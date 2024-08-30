@@ -74,4 +74,4 @@ INNER JOIN top_paying_skills ON top_demanded_skills.skills = top_paying_skills.s
 ORDER BY 
     total_count DESC,
     average_year_salary DESC
-LIMIT 20
+LIMIT 10
